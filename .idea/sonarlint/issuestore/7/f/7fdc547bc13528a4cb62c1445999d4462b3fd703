@@ -1,0 +1,7 @@
+
+I
+java:S1481""'Remove this unused "st" local variable.(×Å¿èşÿÿÿÿ8Û†™ıÊ/
+’
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æ×¨úÿÿÿÿ8±ÇèıÊ/
+ˆ
+java:S1319+"kThe type of "subscribers" should be an interface such as "List" rather than the implementation "ArrayList".(ØçÅş8±ÇèıÊ/

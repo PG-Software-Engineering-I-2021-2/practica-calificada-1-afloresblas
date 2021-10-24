@@ -1,0 +1,13 @@
+
+T
+java:S2168G"9Remove this dangerous instance of double-checked locking.(Â©Ïıøÿÿÿÿ
+L
+java:S1144"1Remove this unused private "registerBook" method.(ãÀïÌøÿÿÿÿ
+M
+java:S1144"8Remove this unused private "registerBookEdition" method.(„àÈ_
+S
+java:S1144">Remove this unused private "modifyBookEditionQuantity" method.(ŞÕÖ>
+O
+java:S1144'"4Remove this unused private "registerStudent" method.(¢ Òìøÿÿÿÿ
+Q
+java:S11443"6Remove this unused private "deregisterStudent" method.(ğ«øôÿÿÿÿÿ

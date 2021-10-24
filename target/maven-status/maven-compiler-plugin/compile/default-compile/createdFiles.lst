@@ -1,1 +1,5 @@
-domain\Prueba.class
+domain\Students.class
+domain\Oliver.class
+domain\BookCopy.class
+domain\Author.class
+domain\BookTitle.class
